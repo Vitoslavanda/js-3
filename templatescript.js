@@ -43,6 +43,6 @@
 
 
 // - поміняти колір тексту у всіх елементів fc_rules на червоний
-document.ul.style.color = 'red';
+// document.ul.style.color = 'red';
 
 
